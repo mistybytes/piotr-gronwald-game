@@ -1,2 +1,2 @@
 # piotr-gronwald-game
-Piotr Gronwald game
+Game name: 3D-2048
